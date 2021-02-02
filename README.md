@@ -27,4 +27,6 @@ You are now ready to use the script
 Replace 'BOT TOKEN HERE' with your bot's token (while keeping '') and execute the script. Wait until python prints "Logged on as \<bot name\>" and then your bot will start answering messages sent to the server and DMs as well.
 
 ## Video Tutorial
+
+https://www.youtube.com/watch?v=wkImpphDocI  
 [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/wkImpphDocI/maxresdefault.jpg)](https://www.youtube.com/watch?v=wkImpphDocI)
