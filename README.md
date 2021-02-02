@@ -1,6 +1,8 @@
 # Discord-AI-Chatbot
 
-## Preparing bot:
+## Getting Started
+
+### Creating & preparing Discord bot:
 
 1- Go to: https://discord.com/developers/applications  
 2- Click "New Application" and give your bot a name  
@@ -12,6 +14,14 @@
 7- Now paste the link you copied in your browser, select the server then click "Authorize"  
 Your bot is now ready.
 
-## How to use the script:
+### Installing requirements:
+1- Install discord.py ```pip install discord.py```  
+2- Install selenium ```pip install selenium```  
+4- Go to: https://chromedriver.chromium.org/downloads  
+3- Select chromedriver with the same version as Google Chrome  
+4- Download "chromedriver_win32.zip"  
+5- Extract "chromedriver.exe" and put it next to the python file  
+You are now ready to use the script  
 
+### Usage:
 Replace the 'BOT TOKEN HERE' with your bot's token and execute the script. Wait until python prints "Logged on as \<bot name\>" and then your bot will start answering messages sent to the server and DMs as well.
