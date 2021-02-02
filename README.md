@@ -24,4 +24,4 @@ Your bot is now ready.
 You are now ready to use the script  
 
 ### Usage:
-Replace the 'BOT TOKEN HERE' with your bot's token and execute the script. Wait until python prints "Logged on as \<bot name\>" and then your bot will start answering messages sent to the server and DMs as well.
+Replace 'BOT TOKEN HERE' with your bot's token (while keeping '') and execute the script. Wait until python prints "Logged on as \<bot name\>" and then your bot will start answering messages sent to the server and DMs as well.
