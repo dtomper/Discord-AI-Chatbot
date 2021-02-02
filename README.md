@@ -20,7 +20,7 @@ Your bot is now ready.
 4- Go to: https://chromedriver.chromium.org/downloads  
 3- Select chromedriver with the same version as Google Chrome  
 4- Download "chromedriver_win32.zip"  
-5- Extract "chromedriver.exe" and put it next to the python file  
+5- Extract "chromedriver.exe" and put it next to discordbot.py  
 You are now ready to use the script  
 
 ### Usage:
