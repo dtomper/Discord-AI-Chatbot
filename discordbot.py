@@ -6,7 +6,6 @@ driver = webdriver.Chrome()
 driver.get('https://www.cleverbot.com')
 driver.find_element_by_id('noteb').click()
 
-
 def get_response(message):
     driver.find_element_by_xpath('//*[@id="avatarform"]/input[1]').send_keys(message + Keys.RETURN)
     while True:
