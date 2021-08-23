@@ -26,6 +26,7 @@ You are now ready to use the script
 ### Installing requirements for discordbot2.py:
 1- Install discord.py ```pip install discord.py```  
 2- Install selenium ```pip install selenium```   
+3- Install undetected-chromedriver ```pip install undetected-chromedriver```   
 You are now ready to use the script  
 
 ### Usage:
