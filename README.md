@@ -14,13 +14,18 @@
 7- Now paste the link you copied in your browser, select the server then click "Authorize"  
 Your bot is now ready.
 
-### Installing requirements:
+### Installing requirements for discordbot.py:
 1- Install discord.py ```pip install discord.py```  
 2- Install selenium ```pip install selenium```  
 4- Go to: https://chromedriver.chromium.org/downloads  
 3- Select chromedriver with the same version as Google Chrome  
 4- Download "chromedriver_win32.zip"  
 5- Extract "chromedriver.exe" and put it next to discordbot.py  
+You are now ready to use the script  
+
+### Installing requirements for discordbot2.py:
+1- Install discord.py ```pip install discord.py```  
+2- Install selenium ```pip install selenium```   
 You are now ready to use the script  
 
 ### Usage:
