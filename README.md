@@ -35,4 +35,4 @@ Replace 'BOT TOKEN HERE' with your bot's token (while keeping '') and execute th
 ## Video Tutorial
 
 https://www.youtube.com/watch?v=wkImpphDocI  
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/wkImpphDocI/maxresdefault.jpg)](https://www.youtube.com/watch?v=wkImpphDocI)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/jmFq99gE0CQ/maxresdefault.webp?v=635c1c18&sqp=CKS48JoG&rs=AOn4CLBAtz7YXWGzqD1Sv5V9xAkkPZzbqw)](https://youtu.be/jmFq99gE0CQ)
