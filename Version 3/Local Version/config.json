@@ -1,0 +1,16 @@
+{
+    "bot-command-prefix": "!!",
+    "bot-message-prefix": "??",
+    "allowed-channels": [
+        
+    ],
+    "blacklisted-channels": [
+        
+    ],
+    "allowed-users": [
+        
+    ],
+    "blacklisted-users": [
+        
+    ]
+}
