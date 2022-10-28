@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+The steps below are old, I recommend watching the updated video below for a more detailed tutorial.
+
 ### Creating & preparing Discord bot:
 
 1- Go to: https://discord.com/developers/applications  
